@@ -6,6 +6,7 @@ Deep Learning 관련 논문을 읽고 Review 및 발표합니다.
 - Transformer: Attention is All You Need ([Blog Review](https://jjonhwa.github.io/booststudy/2021/08/19/booststudy-paper-Transformer/))
 - Dense Passage Retrieval for Open-Domain Question Answering (ODQA) ([Blog Review](https://jjonhwa.github.io/booststudy/2021/10/19/booststudy-paper-DPR_for_ODQA_Paper_Reading/) | [Presentation](https://github.com/jjonhwa/Paper_Review/blob/main/Dense%20Passage%20Retrieval%20for%20Open-Domain%20Question%20Answering.pdf))
 - RBERT: Enriching Pre-Training Language Model with Entity Information for Relation Classification (RE) ([Blog Review](https://jjonhwa.github.io/booststudy/2022/02/13/booststudy-paper-RBERT/))
+- An improved baseline for sentence-level relation extraction (RE) ([Blog Review](https://jjonhwa.github.io/booststudy/2022/02/17/booststudy-paper-Improved_Baseline/))
 
 ## CV
 - YOLOv1: You Only Look Once - Unified, Real-Time Object Detection ([Presentation](https://github.com/jjonhwa/Paper_Review/blob/main/YOLOv1_Paper_Review.pdf)) 
