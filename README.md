@@ -13,3 +13,6 @@ Deep Learning 관련 논문을 읽고 Review 및 발표합니다.
 - VQGAN: Taming Transformers for High-Resolution Image Synthesis ([Blog Review](https://jjonhwa.github.io/booststudy/2021/12/24/booststudy-paper-VQGAN/))
 
 ## Multi Modal
+
+## XAI
+- Self-Explaining Structures Improve NLP Models (NLI) ([Blog Review](https://jjonhwa.github.io/booststudy/2022/02/21/booststudy-paper-Self_Explaining_Structures_Improve_NLP_Models/))
